@@ -5,3 +5,7 @@ W
 'contracts/composition-registration.clar,5/8/58e59e1bf77b633013f36c55c228b3a0c3f85306
 V
 &tests/composition-registration.test.ts,6/0/6018a39f646b861888c5aecb003949fd4d26c0f7
+S
+#contracts/royalty-distribution.clar,9/9/995e55fe213df7ff94d708e34d0568520c645601
+R
+"tests/royalty-distribution.test.ts,e/7/e7225c58018802eab038cf8c0e1ab7709bd94aab
