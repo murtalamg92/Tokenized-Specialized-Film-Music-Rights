@@ -9,3 +9,7 @@ S
 #contracts/royalty-distribution.clar,9/9/995e55fe213df7ff94d708e34d0568520c645601
 R
 "tests/royalty-distribution.test.ts,e/7/e7225c58018802eab038cf8c0e1ab7709bd94aab
+N
+contracts/usage-licensing.clar,b/4/b40bcfbb90f13ecadde1fbc1be0cf4a2249c912c
+M
+tests/usage-licensing.test.ts,1/1/112f5162b5d222bc4ee42169b44529a47611520a
